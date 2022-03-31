@@ -14,7 +14,7 @@ void main()
 	}
 	for(i=0;i<strlen(name);i++)
 	{
-		if(name[i]=='a'||name[i]=='e'||name[i]=='i'||name[i]=='o'||name[i]=='u')
+		//if(name[i]=='a'||name[i]=='e'||name[i]=='i'||name[i]=='o'||name[i]=='u')
 			count++;
 	}
 	for(i=0;i<5;i++)
